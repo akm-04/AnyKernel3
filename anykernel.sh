@@ -13,6 +13,7 @@ do.cleanuponabort=0
 device.name1=gts8
 device.name2=gts8p
 device.name3=gts8u
+device.name4=gts8wifi
 supported.versions=
 supported.patchlevels=
 supported.vendorpatchlevels=
